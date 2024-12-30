@@ -2,6 +2,13 @@
 
 A modern web application that uses AI to analyze food through images and text descriptions, providing accurate calorie and nutritional information.
 
+## Demo
+
+The app can analyze food images and provide detailed nutritional information:
+
+![Example meal analysis showing meatloaf, mac and cheese, and green beans](docs/demo.jpeg)
+
+
 ## Features
 
 - 📸 **Image-Based Food Analysis**
